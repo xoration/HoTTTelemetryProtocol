@@ -1,0 +1,21 @@
+{
+    "name": "HoTT Telemetry Protocol",
+    "keywords": "hott, graupner, sensor, telemetry",
+    "description": "Arduino Library for the HoTT Telemetry Protocol to create custom sensors",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/xoration/HoTTTelemetryProtocol.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Stefan Seifert",
+        "email": "Stefan.Seifert@codechaos.org",
+        "maintainer": true
+      }
+    ],
+    "version": "1.0.0",
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
